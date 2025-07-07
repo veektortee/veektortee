@@ -30,13 +30,13 @@ I’ve developed and deployed projects spanning LLMs with RAG, resume classifica
 **[ResuMatch: AI Resume Classifier](https://github.com/veektortee/AI-Powered-Resume-Classifier)**  
 A BERT-powered system that classifies resumes into job categories with an accuracy of 97%, with full preprocessing, synonym augmentation, and robust deployment on Vertex AI.
 
-**Resume Rewriter with GPT + RAG**  
-A custom AI assistant that rewrites candidate resumes into targeted SDR applications, using semantic search with FAISS and prompt engineering for style alignment.
+**[Resume Enhancer](https://github.com/veektortee/Resume-Analyzer-Enhancer)**  
+A cloud-native application designed to analyze and enhance resumes based on specific job descriptions. Leverages Vertex AI's Gemini Flash model to enhance and analyze resumes.
 
-**Smart Retail Object Detection System**  
+**[Smart Retail Object Detection System](https://github.com/veektortee/Smart-Retail-Checkout-System)**  
 Trained YOLOv8 models on Open Images V6 for real-time product detection in retail stores, with class-level pricing overlays for enhanced inventory insights.
 
-**Medical Q&A Bot**  
+**[Medical Q&A Bot](https://github.com/veektortee/Medical-Q-A)**  
 A domain-specific Q&A bot built using RAG architecture, vector embeddings, and OpenAI models for precise medical information retrieval from the MedQuad dataset.
 
 
