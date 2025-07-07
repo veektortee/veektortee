@@ -31,7 +31,7 @@ I’ve developed and deployed projects spanning LLMs with RAG, resume classifica
 A BERT-powered system that classifies resumes into job categories with an accuracy of 97%, with full preprocessing, synonym augmentation, and robust deployment on Vertex AI.
 
 **[Resume Enhancer](https://github.com/veektortee/Resume-Analyzer-Enhancer)**  
-A cloud-native application designed to analyze and enhance resumes based on specific job descriptions. Leverages Vertex AI's Gemini Flash model to enhance and analyze resumes.
+A cloud-native application designed to analyze and enhance resumes based on specific job descriptions. Built with Vertex AI’s Gemini Flash model for advanced resume insights and rewriting.
 
 **[Smart Retail Object Detection System](https://github.com/veektortee/Smart-Retail-Checkout-System)**  
 Trained YOLOv8 models on Open Images V6 for real-time product detection in retail stores, with class-level pricing overlays for enhanced inventory insights.
