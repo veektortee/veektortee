@@ -44,7 +44,7 @@ A domain-specific Q&A bot built using RAG architecture, vector embeddings, and O
 
 ## 📫 How to connect with me
 
-- **[Email](veektortee36@gmail.com)**  
+- **Email**: veektortee36@gmail.com 
 - **[LinkedIn](https://www.linkedin.com/in/taiwo-victor-bb5b4b174/)**  
 - **[Upwork](https://www.upwork.com/freelancers/~0182ca1ff9cc59ffab)**   
 
