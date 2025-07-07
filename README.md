@@ -28,7 +28,7 @@ I’ve developed and deployed projects spanning LLMs with RAG, resume classifica
 ## 🏅 Featured Projects
 
 **[ResuMatch: AI Resume Classifier](https://github.com/veektortee/AI-Powered-Resume-Classifier)**  
-A BERT-powered system that classifies resumes into job categories with an accuracy of 97%, with full preprocessing, synonym augmentation, and robust deployment on Vertex AI.
+A BERT-powered system that classifies resumes into job categories with an accuracy of 97%, with full preprocessing. It features an interactive Streamlit app for seamless user interaction, enabling quick resume uploads and instant predictions..
 
 **[Resume Enhancer](https://github.com/veektortee/Resume-Analyzer-Enhancer)**  
 A cloud-native application designed to analyze and enhance resumes based on specific job descriptions. Built with Vertex AI’s Gemini Flash model for advanced resume insights and rewriting.
