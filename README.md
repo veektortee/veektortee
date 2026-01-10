@@ -4,12 +4,7 @@ AI Engineer | Machine Learning Developer | Freelance AI Solutions Specialist
 ## 🚀 About Me  
 I’m an emerging AI Engineer with a background in Electrical Engineering and a deep passion for Machine Learning, Natural Language Processing, and Computer Vision. After pivoting from a successful career in professional writing, I now build practical, real-world AI systems that solve meaningful problems.  
 
-I’ve developed and deployed projects spanning LLMs with RAG, resume classification with BERT, and smart retail object detection. My mission is to bridge the gap between AI research and its practical, business-ready applications, helping businesses leverage intelligent systems for growth and efficiency.  
-
-**Highlights:**  
-- 🎓 B.Sc. in Electrical Engineering  
-- 🌟 100% Job Success as a rising talent AI freelancer on Upwork  
-- 🧠 Lifelong learner focused on generative AI, LoRA/QLoRA fine-tuning, and model optimization  
+I’ve developed and deployed projects spanning LLMs with RAG, resume classification with BERT, and smart retail object detection. My mission is to bridge the gap between AI research and its practical, business-ready applications, helping businesses leverage intelligent systems for growth and efficiency.   
 
 ---
 
