@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Taiwo Victor  
+# Hi, I'm Taiwo Victor  
 AI Engineer | Machine Learning Developer | Freelance AI Solutions Specialist  
 
-## 🚀 About Me  
+## About Me  
 I’m an emerging AI Engineer with a background in Electrical Engineering and a deep passion for Machine Learning, Natural Language Processing, and Computer Vision. After pivoting from a successful career in professional writing, I now build practical, real-world AI systems that solve meaningful problems.  
 
 I’ve developed and deployed projects spanning LLMs with RAG, resume classification with BERT, and smart retail object detection. My mission is to bridge the gap between AI research and its practical, business-ready applications, helping businesses leverage intelligent systems for growth and efficiency.   
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Machine Learning:** scikit-learn, TensorFlow, PyTorch, Time Series Forecasting  
 **Deep Learning:** CNNs, LSTMs, Transformers, BERT, LoRA/QLoRA  
@@ -20,7 +20,7 @@ I’ve developed and deployed projects spanning LLMs with RAG, resume classifica
 
 ---
 
-## 🏅 Featured Projects
+## Featured Projects
 
 **[AI Resume Classifier](https://github.com/veektortee/AI-Powered-Resume-Classifier)**  
 A BERT-powered system that classifies resumes into job categories with an accuracy of 97%, with full preprocessing. It features an interactive Streamlit app for seamless user interaction, enabling quick resume uploads and instant predictions..
@@ -37,7 +37,7 @@ A domain-specific Q&A bot built using RAG architecture, vector embeddings, and O
 
 ---
 
-## 📫 How to connect with me
+## How to connect with me
 
 - **Email**: veektortee36@gmail.com 
 - **[LinkedIn](https://www.linkedin.com/in/taiwo-victor-bb5b4b174/)**    
